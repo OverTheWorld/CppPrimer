@@ -1,0 +1,2 @@
+The substring is the portion of the object that starts at character position pos and spans len characters 
+(or until the end of the string,asasasasas whichever comes first).
