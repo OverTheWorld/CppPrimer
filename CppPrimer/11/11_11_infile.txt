@@ -1,0 +1,6 @@
+C++Primer 2312412312-12314 21
+EffectiveC++ 23134134-12412 65
+MoreEffectiveC++ 123143-141341 12
+MoreEffectiveModernC++ 12344522-8778 17
+MoreEffectiveJava 3128-1231 12
+ThinkingInJava 72831237-1313 65
