@@ -1,0 +1,6 @@
+C++Primer 21
+EffectiveC++ 65
+MoreEffectiveC++ 12
+MoreEffectiveModernC++ 17
+MoreEffectiveJava 12
+ThinkingInJava 65
