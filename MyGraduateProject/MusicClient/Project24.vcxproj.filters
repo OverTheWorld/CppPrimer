@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Button.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CharConvert.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ClientNetworkClass.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DataBaseClass.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DBulletComment.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DCameraClass.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DInputClass.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DObjectClass.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DSkyClass.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DTerrainClass.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Global.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ListBox.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mciPlayer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MusicFile.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="runtimeError.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Slider.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TextLineClass.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UIBaseClass.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StaticText.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Button.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CharConvert.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ClientNetworkClass.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="d3dDemo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DataBaseClass.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DBulletComment.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DCameraClass.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DInputClass.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DObjectClass.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DSkyClass.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DTerrainClass.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ListBox.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mciPlayer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MusicFile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="runtimeError.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Slider.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TextLineClass.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UIBaseClass.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticText.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Project20.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
